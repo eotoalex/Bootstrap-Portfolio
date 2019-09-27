@@ -1,0 +1,28 @@
+
+body {
+    background-image:url(images/pattern.jpg);
+}
+
+.container {
+    background-color:pink;
+    width:75%;
+    height:auto;
+    margin:auto;
+    display:block;
+}
+
+.grid {
+    margin:20px;
+}
+
+.bg-light{
+    background-color:rgb(187, 106, 106) !important; 
+}
+
+.col-sm {
+    margin:5px;
+}
+
+.row {
+    margin:5px;
+}
